@@ -1,5 +1,4 @@
-#include<algorithm>
-#include<vector>
+#include<bits/stdc++.h>
 using namespace std;
 class KrukshalMST :private DISJ  // class DISJ from disjoint set union.cpp
 {
